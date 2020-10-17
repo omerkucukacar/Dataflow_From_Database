@@ -23,7 +23,6 @@ A)Tablo Verileri
 -Oluşturulma Yılı
 -Müzeler
 -Müzeinin bulunduğu şehir Adı (Adres Bilgileri)
--Dili
 -Adet
 -Boyut bilgileri
 -Türü (Yağlı Boya v.b)
