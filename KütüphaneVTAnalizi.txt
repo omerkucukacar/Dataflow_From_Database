@@ -1,16 +1,17 @@
 Kütüphane Ver Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek veri tabanı,  Türkiye'deki müzelerin koleksiyonlarında yer alan aynı türdeki tabloların yer aldığı bir veri tabanı oluşturulacaktır.
+-Hayata geçirilecek veri tabanı, Vincent van Gogh'a ait olan tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 -Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek.
--Tabloların yer aldığı müzeler kaydedilecek ve daha sonra sorgulanabilecek.
--Yazarlarla ilgi detaylı bilgilere ulaşabilecek bağlantıların da yer aldığı kayıtlar oluşturulacak ve daha sonra sorgulama işlemi yapılacak.
--Herhangi bir müzede o tablodan kaç adet olduğunun sayısını bilecektir.
+-Tabloların yer aldığı müzeler kaydedilecek ve müzeler isimleri ile sorgulanabilecek.
+-Yazarlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılacak.
+-Herhangi bir müzede o tablodan kaç adet olduğunun sayısını belirtilecek.
+-Yazara ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
--Tablo bilgileri
+-Tablo bilgileri(Verileri)
 -Yazar bilgileri
 -Müze bilgileri
 
@@ -18,13 +19,14 @@ Kütüphane Ver Tabanı Analizi
 
 A)Tablo Verileri
 
--EserAdı
--YazarAdı
+-Eser Adı
+-Yazar Adı
 -Oluşturulma Yılı
--Müzeler
--Müzeinin bulunduğu şehir Adı (Adres Bilgileri)
--Adet
--Boyut bilgileri
+-Müze Adları
+-Müzelerin bulunduğu şehir Adı (Adres Bilgileri)
+-Tablo Sayısı
+-Tablonun oluşturulduğu Dönem
+-Tablo boyut bilgileri
 -Türü (Yağlı Boya v.b)
 
 B)Yazar Verileri
@@ -33,7 +35,6 @@ B)Yazar Verileri
 -Yazar Ünvan
 -URL
 -Yazar Doğum-Ölüm Tarihi
-
 
 C)Müze Bilgileri
 -Müze Adı
