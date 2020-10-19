@@ -6,8 +6,8 @@ Müze Veri Tabanı Analizi
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 -Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek.
 -Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek.
--Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılacak.
--Herhangi bir müzede o tablodan kaç adet olduğunun sayısını belirtilecek.
+-Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek.
+-Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek.
 -Ressama ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
@@ -33,7 +33,7 @@ B)Yazar Verileri
 -Ressam Soyadı
 -Ressam Ünvan
 -Ressam Doğum-Ölüm Tarihi
--URL
+-Ressam URL
 
 C)Müze Bilgileri
 -Müze Adı
