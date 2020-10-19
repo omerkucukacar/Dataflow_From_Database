@@ -1,40 +1,39 @@
 Müze Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek veri tabanı, birçok ressama/yazara ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
+-Hayata geçirilecek veri tabanı, birçok ressama ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 -Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek.
--Tabloların yer aldığı müzeler kaydedilecek ve müzeler isimleri ile sorgulanabilecek.
--Yazarlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılacak.
+-Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek.
+-Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılacak.
 -Herhangi bir müzede o tablodan kaç adet olduğunun sayısını belirtilecek.
--Yazara ait URL bilgisine yer verilecek.
+-Ressama ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
 -Tablo bilgileri(Verileri)
--Yazar bilgileri
+-Ressam bilgileri
 -Müze bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak.
 
 A)Tablo Verileri
-
 -Eser Adı
--Yazar Adı
+-Ressam Adı
 -Oluşturulma Yılı
 -Müze Adları
 -Müzelerin bulunduğu şehir Adı (Adres Bilgileri)
--Tablo Sayısı
+-Tablo Adedi
 -Tablonun oluşturulduğu Dönem
 -Tablo boyut bilgileri
 -Türü (Yağlı Boya v.b)
 
 B)Yazar Verileri
--Yazar Adı
--Yazar Soyadı
--Yazar Ünvan
+-Ressam Adı
+-Ressam Soyadı
+-Ressam Ünvan
+-Ressam Doğum-Ölüm Tarihi
 -URL
--Yazar Doğum-Ölüm Tarihi
 
 C)Müze Bilgileri
 -Müze Adı
