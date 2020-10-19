@@ -4,11 +4,11 @@ Müze Veri Tabanı Analizi
 -Hayata geçirilecek veri tabanı, birçok ressama ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
--Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek.
--Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek.
--Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek.
--Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek.
--Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek.
+-Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
+-Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek,
+-Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek,
+-Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
+-Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek,
 -Ressama ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
@@ -18,24 +18,25 @@ Müze Veri Tabanı Analizi
 
 4) Veri tabanında ne tür veriler depolanacak.
 A)Tablo Verileri
--Eser Adı
--Ressam Adı
--Tabloların Oluşturulma Yılı
--Tabloların bulunduğu Müze Adları
--Tablo Adedi
--Tablonun bulunduğu koleksiyon Bilgileri
--Tablonun oluşturulduğu Dönem
--Tablo boyut bilgileri
--Türü (Yağlı Boya v.b.)
+-Eser Adı,
+-Ressam Adı,
+-Tabloların Oluşturulma Yılı,
+-Tabloların bulunduğu Müze Adları,
+-Tablo Adedi,
+-Tablonun bulunduğu koleksiyon Bilgileri,
+-Tablonun oluşturulduğu Dönem,
+-Tablo boyut bilgileri,
+-Tabloların hangi malzemelerden oluştuğu,
+-Türü (Yağlı Boya v.b.).
 
 B)Yazar Verileri
--Ressam Adı
--Ressam Soyadı
--Ressam Ünvan
--Ressam Doğum-Ölüm Tarihi
--Ressam URL
+-Ressam Adı,
+-Ressam Soyadı,
+-Ressam Ünvan,
+-Ressam Doğum-Ölüm Tarihi,
+-Ressam URL.
 
 C)Müze Bilgileri
--Müze Adı
--Müze Konumu (Adres Bilgileri)
--Müze No
+-Müze Adı,
+-Müze Konumu (Adres Bilgileri),
+-Müze No.
