@@ -21,9 +21,9 @@ A)Tablo Verileri
 -Eser Adı
 -Ressam Adı
 -Oluşturulma Yılı
--Müze Adları
--Müzelerin bulunduğu şehir Adı (Adres Bilgileri)
+-Tabloların bulunduğu Müze Adları
 -Tablo Adedi
+-Koleksiyon Bilgileri
 -Tablonun oluşturulduğu Dönem
 -Tablo boyut bilgileri
 -Türü (Yağlı Boya v.b)
@@ -37,4 +37,4 @@ B)Yazar Verileri
 
 C)Müze Bilgileri
 -Müze Adı
--Adres(Konum Bilgileri)
+-Müzelerin bulunduğu şehir Adı (Adres Bilgileri)
