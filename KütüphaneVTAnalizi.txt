@@ -18,10 +18,9 @@ Müze Veri Tabanı Analizi
 
 4) Veri tabanında ne tür veriler depolanacak.
 A)Tablo Verileri
-
 -Eser Adı
 -Ressam Adı
--Oluşturulma Yılı
+-Tabloların Oluşturulma Yılı
 -Tabloların bulunduğu Müze Adları
 -Tablo Adedi
 -Tablonun bulunduğu koleksiyon Bilgileri
@@ -38,5 +37,5 @@ B)Yazar Verileri
 
 C)Müze Bilgileri
 -Müze Adı
--Müzelerin konumu (Adres Bilgileri)
+-Müze Konumu (Adres Bilgileri)
 -Müze No
