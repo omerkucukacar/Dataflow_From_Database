@@ -9,7 +9,8 @@
 > Tabloların yer aldığı müzeler kaydedilecek ve müze adları ile sorgulanabilecek,
 > Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
 > Herhangi bir müzede ulaşılmak istenilen tablodan kaç adet olduğunun sayısı belirtilecek,
-> Ressama ait URL bilgisine yer verilecek.
+> Ressama ait URL bilgisine yer verilecek,
+> Veri tabanı içerisine aktarılan her bir eser/tablo için kayıt no ve kayıt tarihi verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
 > Tablo bilgileri(Verileri)
@@ -27,7 +28,9 @@ A)Tablo Verileri
 > Tablonun oluşturulduğu Dönem,
 > Tablo boyut bilgileri,
 > Tabloların hangi malzemelerden oluştuğu,
-> Türü (Yağlı Boya v.b.).
+> Türü (Yağlı Boya v.b.),
+> Tablo kayıt tarihi,
+> Tablo kayıt no.
 
 B)Yazar Verileri
 > Ressam Adı,
