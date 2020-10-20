@@ -6,9 +6,9 @@
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 > Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
 > Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek,
-> Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek,
+> Tabloların yer aldığı müzeler kaydedilecek ve müze adları ile sorgulanabilecek,
 > Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
-> Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek,
+> Herhangi bir müzede ulaşılmak istenilen tablodan kaç adet olduğunun sayısı belirtilecek,
 > Ressama ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
