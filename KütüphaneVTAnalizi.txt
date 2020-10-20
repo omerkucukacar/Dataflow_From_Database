@@ -1,42 +1,42 @@
 Müze Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek veri tabanı, birçok ressama ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
+>Hayata geçirilecek veri tabanı, birçok ressama ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
--Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
--Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek,
--Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek,
--Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
--Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek,
--Ressama ait URL bilgisine yer verilecek.
+>Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
+>Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek,
+>Tabloların yer aldığı müzeler kaydedilecek ve müzel isimleri ile sorgulanabilecek,
+>Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
+>Herhangi bir müzede o tablodan kaç adet olduğunun sayısı belirtilecek,
+>Ressama ait URL bilgisine yer verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
--Tablo bilgileri(Verileri)
--Ressam bilgileri
--Müze bilgileri
+>Tablo bilgileri(Verileri)
+>Ressam bilgileri
+>Müze bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak.
 A)Tablo Verileri
--Eser Adı,
--Ressam Adı,
--Tabloların Oluşturulma Yılı,
--Tabloların bulunduğu Müze Adları,
--Tablo Adedi,
--Tablonun bulunduğu koleksiyon Bilgileri,
--Tablonun oluşturulduğu Dönem,
--Tablo boyut bilgileri,
--Tabloların hangi malzemelerden oluştuğu,
--Türü (Yağlı Boya v.b.).
+>Eser Adı,
+>Ressam Adı,
+>Tabloların Oluşturulma Yılı,
+>Tabloların bulunduğu Müze Adları,
+>Tablo Adedi,
+>Tablonun bulunduğu koleksiyon Bilgileri,
+>Tablonun oluşturulduğu Dönem,
+>Tablo boyut bilgileri,
+>Tabloların hangi malzemelerden oluştuğu,
+>Türü (Yağlı Boya v.b.).
 
 B)Yazar Verileri
--Ressam Adı,
--Ressam Soyadı,
--Ressam Ünvan,
--Ressam Doğum-Ölüm Tarihi,
--Ressam URL.
+>Ressam Adı,
+>Ressam Soyadı,
+>Ressam Ünvan,
+>Ressam Doğum-Ölüm Tarihi,
+>Ressam URL.
 
 C)Müze Verileri
--Müze Adı,
--Müze Konumu (Adres Bilgileri),
--Müze No.
+>Müze Adı,
+>Müze Konumu (Adres Bilgileri),
+>Müze No.
