@@ -22,6 +22,7 @@
 A)Tablo Verileri
 > Eser Adı,
 > Ressam Adı,
+> Tablo hakkında açıklama,
 > Tabloların Oluşturulma Yılı,
 > Tabloların bulunduğu Müze Adları,
 > Tablo Adedi,
