@@ -10,7 +10,7 @@
 > Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
 > Herhangi bir müzede ulaşılmak istenilen tablodan kaç adet olduğunun sayısı belirtilecek,
 > Ressama ait URL bilgisine yer verilecek,
-> Herbir ressama ait ayrı ayrı numara verilecek,
+> Herbir ressama ait ayrı ayrı numara verilecek ve sorgulama işlemi yapılabilecek,
 > Veri tabanı içerisine aktarılan her bir eser/tablo için kayıt no ve kayıt tarihi verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
