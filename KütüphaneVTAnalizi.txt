@@ -1,7 +1,7 @@
 > Müze Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-> Hayata geçirilecek veri tabanı, birçok ressama ait olan yağlı tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
+> Hayata geçirilecek veri tabanı, birçok ressama ait olan tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 > Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
