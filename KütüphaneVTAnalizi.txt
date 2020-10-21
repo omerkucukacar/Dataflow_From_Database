@@ -28,7 +28,6 @@ A)Tablo Verileri
 > Tablonun bulunduğu koleksiyon Bilgileri,
 > Tablonun oluşturulduğu Dönem,
 > Tablo boyut bilgileri,
-> Tabloların hangi malzemelerden oluştuğu,
 > Türü (Yağlı Boya v.b.),
 > Tablo kayıt tarihi,
 > Tablo kayıt no.
