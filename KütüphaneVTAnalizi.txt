@@ -37,7 +37,8 @@ B)Ressam Verileri
 > Ressam Soyadı,
 > Ressam Ünvan,
 > Ressam Doğum-Ölüm Tarihi,
-> Ressam URL.
+> Ressam URL,
+> Ressam No.
 
 C)Müze Verileri
 > Müze Adı,
