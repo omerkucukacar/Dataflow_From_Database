@@ -32,7 +32,7 @@ A)Tablo Verileri
 > Tablo kayıt tarihi,
 > Tablo kayıt no.
 
-B)Yazar Verileri
+B)Ressam Verileri
 > Ressam Adı,
 > Ressam Soyadı,
 > Ressam Ünvan,
