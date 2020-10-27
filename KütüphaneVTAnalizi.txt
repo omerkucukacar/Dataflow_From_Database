@@ -45,4 +45,5 @@ C)Müze Verileri
 > Müze Adı,
 > Müze Konumu (Adres Bilgileri),
 > Müze No,
-> Müze URL.
+> Müze URL,
+> Müze E-posta.
