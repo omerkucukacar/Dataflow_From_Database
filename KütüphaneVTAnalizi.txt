@@ -36,7 +36,6 @@ B)Ressam Verileri
 > Ressam Adı,
 > Ressam Soyadı,
 > Ressam Ünvan,
-> Ressam Doğum-Ölüm Tarihi,
 > Ressam URL,
 > Ressam No.
 
