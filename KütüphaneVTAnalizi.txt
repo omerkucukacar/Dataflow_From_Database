@@ -44,4 +44,5 @@ B)Ressam Verileri
 C)Müze Verileri
 > Müze Adı,
 > Müze Konumu (Adres Bilgileri),
-> Müze No.
+> Müze No,
+> Müze URL.
