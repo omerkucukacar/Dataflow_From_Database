@@ -1,47 +1,43 @@
-> Müze Veri Tabanı Analizi
+> Kütüphane Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-> Hayata geçirilecek veri tabanı, birçok ressama ait olan tabloların yer aldığı bir müze  veri tabanı oluşturulacaktır.
+> Hayata geçirilecek veri tabanı, birçok yazar ait olan kitapların yer aldığı bir kütüphane veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
-> Tabloların  künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
-> Her müzeye ait birer tane müze numarası verilecek ve bu numara ile sorgulama yapılabilecek,
-> Tabloların yer aldığı müzeler kaydedilecek ve müze adları ile sorgulanabilecek,
-> Ressamlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
-> Herhangi bir müzede ulaşılmak istenilen tablodan kaç adet olduğunun sayısı belirtilecek,
-> Ressama ait URL bilgisine yer verilecek,
-> Herbir ressama ait ayrı ayrı numara verilecek ve sorgulama işlemi yapılabilecek,
-> Veri tabanı içerisine aktarılan her bir eser/tablo için kayıt no ve kayıt tarihi verilecek.
+> Kitapların künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
+> Her Yayınevine ait birer tane yayınevi numarası verilecek ve bu numara ile sorgulama yapılabilecek,
+> Kitapların yer aldığı yayınevleri kaydedilecek ve yayınevi adları ile sorgulanabilecek,
+> Yazarlarla ilgi detaylı bilgilere ulaşabilecek ve daha sonra sorgulama işlemi yapılabilecek,
+> Kütüphane içerisinde ulaşılmak istenilen eserden kaç adet olduğunun sayısı belirtilecek,
+> Yazara ait URL bilgisine yer verilecek,
+> Herbir yazara ait ayrı ayrı numara verilecek ve sorgulama işlemi yapılabilecek,
+> Veri tabanı içerisine aktarılan her bir eser için kayıt no ve kayıt tarihi verilecek.
 
 3) Veri tabanında hangi veriler depolanacak?
-> Tablo bilgileri(Verileri)
-> Ressam bilgileri
-> Müze bilgileri
+> Kitap bilgileri(Verileri)
+> Yazar bilgileri
+> Yayınevi bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak.
-A)Tablo Verileri
+A)Kitap Verileri
 > Eser Adı,
-> Tablo hakkında açıklama,
-> Tabloların Oluşturulma Yılı,
-> Tabloların bulunduğu Müze Adları,
-> Tablo Adedi,
-> Tablonun bulunduğu koleksiyon Bilgileri,
-> Tablonun oluşturulduğu Dönem,
-> Tablo boyut bilgileri,
-> Türü (Yağlı Boya v.b.),
-> Tablo kayıt tarihi,
-> Tablo kayıt no.
+> Kitap hakkında açıklama,
+> Kitapların Oluşturulma Yılı,
+> Kitap Adedi,
+> Kitabın bulunduğu koleksiyon Bilgileri,
+> Kitabın oluşturulduğu Dönem,
+> Kitap kayıt tarihi,
+> Kitap kayıt no.
 
-B)Ressam Verileri
-> Ressam Adı,
-> Ressam Soyadı,
-> Ressam Ünvan,
-> Ressam URL,
-> Ressam No.
+B)Yazar Verileri
+> Yazar Adı,
+> Yazar  Soyadı,
+> Yazar  Ünvan,
+> Yazar  URL,
+> Yazar  No.
 
-C)Müze Verileri
-> Müze Adı,
-> Müze Konumu (Adres Bilgileri),
-> Müze No,
-> Müze URL,
-> Müze E-posta.
+C)Yayınevi Verileri
+> Yayınevi Adı,
+> Yayınevi No,
+> Yayınevi URL,
+> Yayınevi E-posta.
