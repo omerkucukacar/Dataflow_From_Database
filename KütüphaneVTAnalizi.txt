@@ -30,7 +30,6 @@ A)Kitap Verileri
 B)Yazar Verileri
 > Yazar Adı,
 > Yazar  Soyadı,
-> Yazar  Ünvan,
 > Yazar  URL,
 > Yazar  No.
 
