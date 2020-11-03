@@ -32,6 +32,7 @@ B)Yazar Verileri
 > Yazar  Soyadı,
 > Yazar  URL,
 > Yazar  No.
+> Yazar Doğum Tarihi,
 
 C)Yayınevi Verileri
 > Yayınevi Adı,
