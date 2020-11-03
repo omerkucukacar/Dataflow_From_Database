@@ -24,8 +24,6 @@ A)Kitap Verileri
 > Kitap hakkında açıklama,
 > Kitapların Oluşturulma Yılı,
 > Kitap Adedi,
-> Kitabın bulunduğu koleksiyon Bilgileri,
-> Kitabın oluşturulduğu Dönem,
 > Kitap kayıt tarihi,
 > Kitap kayıt no.
 
