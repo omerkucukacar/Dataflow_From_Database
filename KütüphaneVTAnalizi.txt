@@ -1,7 +1,7 @@
 > Kütüphane Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
-> Hayata geçirilecek veri tabanı, birçok yazara ait kitapların yer aldığı bir kütüphane veri tabanı oluşturulacaktır.
+> Hayata geçirilecek veri tabanı, bir kütüphane içerisinde birçok yazara ait olan romanların  yer aldığı bir kütüphane veri tabanı oluşturulacaktır.
  
 2) Veri tabanı hangi ihriyaçları karşılayacak?
 > Kitapların künye bilgileri kaydedilecek ve daha sonra sorgulanabilecek,
@@ -26,13 +26,14 @@ A)Kitap Verileri
 > Kitap Adedi,
 > Kitap kayıt tarihi,
 > Kitap kayıt no.
+> Kitap Dili
+> Kitap Fiziksel özellikler
 
 B)Yazar Verileri
 > Yazar Adı,
 > Yazar  Soyadı,
 > Yazar  URL,
 > Yazar  No.
-> Yazar Doğum Tarihi,
 
 C)Yayınevi Verileri
 > Yayınevi Adı,
