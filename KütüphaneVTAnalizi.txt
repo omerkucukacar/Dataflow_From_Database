@@ -25,9 +25,10 @@ A)Kitap Verileri
 > Kitapların Oluşturulma Yılı,
 > Kitap Adedi,
 > Kitap kayıt tarihi,
-> Kitap kayıt no.
-> Kitap Dili
-> Kitap Fiziksel özellikler
+> Kitap kayıt no,
+> Kitap ISBN,
+> Kitap Dili,
+> Kitap Fiziksel özellikler.
 
 B)Yazar Verileri
 > Yazar Adı,
