@@ -27,12 +27,14 @@ A)Kitap Verileri
 > Kitap kayıt tarihi,
 > Kitap kayıt no,
 > Kitap ISBN,
+> Kitap Basım Yeri,
 > Kitap Dili,
 > Kitap Fiziksel özellikler.
 
 B)Yazar Verileri
 > Yazar Adı,
 > Yazar  Soyadı,
+> Yazar Kayıt No,
 > Yazar  URL,
 > Yazar  No.
 
@@ -40,4 +42,5 @@ C)Yayınevi Verileri
 > Yayınevi Adı,
 > Yayınevi No,
 > Yayınevi URL,
+> Yyınevi Kayıt Tarih,
 > Yayınevi E-posta.
