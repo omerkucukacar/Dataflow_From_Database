@@ -36,11 +36,11 @@ B)Yazar Verileri
 > Yazar  Soyadı,
 > Yazar Kayıt No,
 > Yazar  URL,
-> Yazar  No.
+> Yazar  Kayıt Tarihi.
 
 C)Yayınevi Verileri
 > Yayınevi Adı,
-> Yayınevi No,
+> Yayınevi Kayıt No,
 > Yayınevi URL,
-> Yyınevi Kayıt Tarih,
+> Yayınevi Kayıt Tarih,
 > Yayınevi E-posta.
